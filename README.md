@@ -64,7 +64,7 @@ CIRCLE_API_KEY=TEST_API_KEY
 ## Setup
 
 ```bash
-git clone https://github.com/SabeloMnikathi/ts-nft-marketplace-cu/edit/main/README.md
+git clone https://github.com/SabeloMnikathi/ts-nft-marketplace-cu
 cd nft-marketplace
 pnpm install
 ```
